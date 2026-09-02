@@ -47,8 +47,8 @@
 
 ## ✦ Key Results and Outputs
 
-• Auto-ARIMA provided the best single-architecture baseline (MAE: 1466 for 'The Very Hungry Caterpillar').
-• Parallel ARIMA-LSTM hybrid models showed robust performance, optimally weighting forecasts to compensate for individual model errors.
+- Auto-ARIMA provided the best single-architecture baseline (MAE: 1466 for 'The Very Hungry Caterpillar').
+- Parallel ARIMA-LSTM hybrid models showed robust performance, optimally weighting forecasts to compensate for individual model errors.
 
 
 
